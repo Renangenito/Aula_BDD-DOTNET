@@ -1,0 +1,12 @@
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\bin\Debug\net6.0\Aula_BDD.deps.json
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\bin\Debug\net6.0\Aula_BDD.dll
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\bin\Debug\net6.0\Aula_BDD.pdb
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.dll
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\refint\Aula_BDD.dll
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\Aula_BDD.pdb
+C:\Users\Renan\source\repos\Aula_BDD\Aula_BDD\obj\Debug\net6.0\ref\Aula_BDD.dll
